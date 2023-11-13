@@ -24,4 +24,5 @@ JSON
 
 
 ## Screenshots
-![Screenshot 2023-11-13 at 6 43 03 PM 3](https://github.com/RhettRoseman/windy-wisdom/assets/140462841/7b1c7e97-b0fa-47fc-a51b-51b3db2d24b6)
+
+![Screenshot 2023-11-13 at 6 44 12 PM 3](https://github.com/RhettRoseman/windy-wisdom/assets/140462841/b092a1e1-352b-47b0-a259-6a8af01cac6d)
